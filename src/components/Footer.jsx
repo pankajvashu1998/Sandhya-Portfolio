@@ -5,7 +5,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-4 py-12">
         {/* Bottom */}
         <div className="mt-12 pt-6 border-t border-amber-500/20 text-center text-gray-400 text-sm">
-          © {new Date().getFullYear()} Pankaj Kumar. All rights reserved.
+          © {new Date().getFullYear()} Sandhya Kumari. All rights reserved.
         </div>
       </div>
     </footer>
