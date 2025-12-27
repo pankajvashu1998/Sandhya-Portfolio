@@ -10,8 +10,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Pankaj Kumar - Portfolio",
-  description: "Hi, I’m Pankaj Kumar. I Build Modern Web Applications",
+  title: "Sandhya Kumari - Portfolio",
+  description: "Hi, I’m Sandhya Kumari. I Build Modern Web Applications",
 };
 
 export default function RootLayout({ children }) {
